@@ -30,6 +30,8 @@ In this repository, you find:
 
 - *README.md* : the analysis and explanation of the analysis performed on the data
 
+- *Sample_run_of_the_code.txt* : a sample of the console output when you run the code
+
 
 ## Getting Started
 
