@@ -1,0 +1,10 @@
+> createTidyData()
+[1] "STARTED ..."
+[1] "Step 1/7 : downloading & unzipping source device data ..."
+[1] "Step 2/7 : reading device data ..."
+[1] "Step 3/7 : merging data and defining column names ..."
+[1] "Step 4/7 : extracting the mean and standard deviation fields ..."
+[1] "Step 5/7 : assigning descriptive activity names ..."
+[1] "Step 6/7 : adding descriptive column names ..."
+[1] "Step 7/7 : finding average of each variable for each activity and each subject and writing to file ..."
+[1] "COMPLETED SUCCESSFULLY!"
